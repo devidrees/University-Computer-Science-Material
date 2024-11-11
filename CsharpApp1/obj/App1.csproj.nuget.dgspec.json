@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MCA3RD\\Desktop\\Uni Projects\\CsharpApp1\\App1.csproj": {}
+    "C:\\Users\\MCA3RD\\Desktop\\Uni-Work\\CsharpApp1\\App1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MCA3RD\\Desktop\\Uni Projects\\CsharpApp1\\App1.csproj": {
+    "C:\\Users\\MCA3RD\\Desktop\\Uni-Work\\CsharpApp1\\App1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MCA3RD\\Desktop\\Uni Projects\\CsharpApp1\\App1.csproj",
+        "projectUniqueName": "C:\\Users\\MCA3RD\\Desktop\\Uni-Work\\CsharpApp1\\App1.csproj",
         "projectName": "App1",
-        "projectPath": "C:\\Users\\MCA3RD\\Desktop\\Uni Projects\\CsharpApp1\\App1.csproj",
+        "projectPath": "C:\\Users\\MCA3RD\\Desktop\\Uni-Work\\CsharpApp1\\App1.csproj",
         "packagesPath": "C:\\Users\\MCA3RD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MCA3RD\\Desktop\\Uni Projects\\CsharpApp1\\obj\\",
+        "outputPath": "C:\\Users\\MCA3RD\\Desktop\\Uni-Work\\CsharpApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

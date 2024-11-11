@@ -10,3 +10,8 @@ Navigate to the project folder:
 Run the project:
 
         dotnet run
+
+Run an exact file:
+
+        dotnet run file.cs
+

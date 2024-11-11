@@ -1,7 +1,7 @@
 1. Basics of C# and .NET
 Goal: Understand core syntax and concepts.
 Topics:
-- Environment setup (VS Code, .NET SDK)
+/- Environment setup (VS Code, .NET SDK)
 - Variables, data types, and operators
 - Conditionals (if, switch)
 - Loops (for, while, foreach)
