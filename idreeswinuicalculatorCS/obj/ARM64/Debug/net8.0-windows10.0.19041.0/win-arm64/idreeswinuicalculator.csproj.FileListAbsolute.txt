@@ -1,0 +1,1 @@
+C:\Users\MCA3RD\Desktop\Uni-Work\idreeswinuicalculatorCS\obj\ARM64\Debug\net8.0-windows10.0.19041.0\win-arm64\idreeswinuicalculator.csproj.AssemblyReference.cache
