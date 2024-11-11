@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "idreeswinuicalculator (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "idreeswinuicalculator (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\MCA3RD\Desktop\Uni Projects\idreeswinuicalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\idreeswinuicalculator.csproj.AssemblyReference.cache
+C:\Users\MCA3RD\Desktop\Uni Projects\idreeswinuicalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\App.g.i.cs
+C:\Users\MCA3RD\Desktop\Uni Projects\idreeswinuicalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\App.g.cs
+C:\Users\MCA3RD\Desktop\Uni Projects\idreeswinuicalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\MainWindow.g.i.cs
+C:\Users\MCA3RD\Desktop\Uni Projects\idreeswinuicalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\MainWindow.g.cs
+C:\Users\MCA3RD\Desktop\Uni Projects\idreeswinuicalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\App.xaml
+C:\Users\MCA3RD\Desktop\Uni Projects\idreeswinuicalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\MainWindow.xaml
+C:\Users\MCA3RD\Desktop\Uni Projects\idreeswinuicalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\App.xbf
+C:\Users\MCA3RD\Desktop\Uni Projects\idreeswinuicalculator\obj\x86\Debug\net8.0-windows10.0.19041.0\win-x86\MainWindow.xbf

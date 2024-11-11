@@ -1,0 +1,12 @@
+
+Create a new console project:
+
+        dotnet new console -o MyApp
+
+Navigate to the project folder:
+
+        cd MyApp
+
+Run the project:
+
+        dotnet run
