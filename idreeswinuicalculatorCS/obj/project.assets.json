@@ -1290,11 +1290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MCA3RD\\Desktop\\Uni Projects\\idreeswinuicalculator\\idreeswinuicalculator.csproj",
+      "projectUniqueName": "C:\\Users\\MCA3RD\\Desktop\\Uni-Work\\idreeswinuicalculatorCS\\idreeswinuicalculator.csproj",
       "projectName": "idreeswinuicalculator",
-      "projectPath": "C:\\Users\\MCA3RD\\Desktop\\Uni Projects\\idreeswinuicalculator\\idreeswinuicalculator.csproj",
+      "projectPath": "C:\\Users\\MCA3RD\\Desktop\\Uni-Work\\idreeswinuicalculatorCS\\idreeswinuicalculator.csproj",
       "packagesPath": "C:\\Users\\MCA3RD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MCA3RD\\Desktop\\Uni Projects\\idreeswinuicalculator\\obj\\",
+      "outputPath": "C:\\Users\\MCA3RD\\Desktop\\Uni-Work\\idreeswinuicalculatorCS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
